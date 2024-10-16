@@ -2,6 +2,7 @@
 - 👀 I’m interested in Power BI Development
 - 🌱 I’m currently Working on Data Analysis and Power BI 
 - 💞️ I’m looking to collaborate on Power BI Dashboards
+-   If Any Queries feel free to Contact -github.com/PratikshaSB
 
 
 <!---
