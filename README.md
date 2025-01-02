@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @PratikshaSB
-- 👀 I’m interested in Power BI Development
-- 🌱 I’m currently Working on Data Analysis and Power BI 
-- 💞️ I’m looking to collaborate on Power BI Dashboards
+Hi there! 👋 I'm Pratiksha
+
+🔧 About Me:
+
+🔄 Power BI Trainer & Developer with hands-on experience in creating impactful dashboards and data models.
+
+📊 Skilled in Python for Data Analysis (NumPy, Pandas, Matplotlib, Seaborn).
+
+🌐 Passionate about building web apps using Django.
+
+✨ Dedicated to simplifying complex concepts and sharing knowledge.
+
 -   If Any Queries feel free to Contact -github.com/PratikshaSB
 
 
