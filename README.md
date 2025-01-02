@@ -6,7 +6,7 @@ Hi there! 👋 I'm Pratiksha
 
 📊 Skilled in Python for Data Analysis (NumPy, Pandas, Matplotlib, Seaborn).
 
-🌐 Passionate about building web apps using Django.
+🌐 Passionate about building interactive Reports and Dashboards .
 
 ✨ Dedicated to simplifying complex concepts and sharing knowledge.
 
